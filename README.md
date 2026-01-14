@@ -112,9 +112,28 @@
 <br/>
 
 <div align="center">
+  <h2>GitHub Stats</h2>
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinrozario&layout=compact&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=colinrozario&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
     height="165"
+    alt="Colin's GitHub stats"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=colinrozario&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    height="165"
+    alt="GitHub streak"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinrozario&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
+    height="165"
+    alt="Top languages"
   />
 </div>
 
