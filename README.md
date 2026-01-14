@@ -95,34 +95,6 @@
 
 ---
 
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=colinrozario&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600"
-    height="165"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com?user=colinrozario&theme=radical&hide_border=true"
-    height="165"
-    alt="GitHub Streak"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinrozario&layout=compact&theme=radical&hide_border=true&cache_seconds=21600"
-    height="165"
-    alt="Top Languages"
-  />
-</div>
-
-
-
 ---
 
 <p align="center">
