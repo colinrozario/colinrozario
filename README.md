@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  AI Engineer in the making • CSE Undergrad @ XIM University • Builder of intelligent systems
+  AI Engineer in the making • CSE Undergrad @ XIM University • Builder of Intelligent systems
 </h3>
 
 ---
@@ -17,15 +17,15 @@
   <img align="right" style="width:16rem; height:auto"
        src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 👯 Looking to collaborate on **AI-powered products & research-driven projects**
+- 👯 Looking to collaborate on **AI-powered products & Research-driven projects**
 
-- 🤝 Open to help and discussions on **ML pipelines, model design & scalable systems**
+- 🤝 Open to help and discussions on **AI,ML pipelines, Model Design & Scalable Systems**
 
 - 👨‍💻 All of my work lives here → **[@colinrozario](https://github.com/colinrozario)**
 
-- 💬 Ask me about **AI systems, startups, or tech + creativity**
+- 💬 Ask me about **AI systems, Startups, or Tech + Creativity**
 
-- ⚡ Fun fact: **I ship ideas before I overthink them.**
+- ⚡ Fun fact: **I turn ideas into working systems before I overthink them**
 
 ---
 
